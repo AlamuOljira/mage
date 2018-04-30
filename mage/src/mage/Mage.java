@@ -22,6 +22,7 @@ public class Mage {
       b=s.nextInt();
       sum= a+b;
             System.out.println("the sum of the 2 number is "+sum);
+            System.out.println("you are not ok");
     }
     
 }
